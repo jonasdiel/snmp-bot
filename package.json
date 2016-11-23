@@ -1,0 +1,28 @@
+{
+  "name": "snmp-bot",
+  "version": "1.0.0",
+  "description": "An SNMP Bot for Telegram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasdiel/snmp-bot.git"
+  },
+  "keywords": [
+    "SNMP",
+    "Bot",
+    "Telegram"
+  ],
+  "author": "Jonas Diel [jonasdiel@gmail.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonasdiel/snmp-bot/issues"
+  },
+  "homepage": "https://github.com/jonasdiel/snmp-bot#readme",
+  "dependencies": {
+    "net-snmp": "^1.1.19",
+    "node-telegram-bot-api": "^0.24.0"
+  }
+}
