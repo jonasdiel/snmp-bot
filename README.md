@@ -33,5 +33,5 @@ New features can be easily added.
  
  --/commands - Show the command list
  
-
- 
+![Avaliable commands](/img/img1.png)
+![Options](/img/img2.png)
